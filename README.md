@@ -1,3 +1,3 @@
-# Iron Fit
+# IRON FIT
 
-Site vitrine pour la marque Iron Fit développé avec Next.js.
+Site vitrine simple pour la marque Iron Fit (Next.js).
